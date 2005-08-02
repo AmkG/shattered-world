@@ -1,0 +1,230 @@
+
+Vencua was a mage-king, one among many of no more than ordinary note.
+And then he discovered the secret of Ascendancy, built a great empire
+to control the natural wells of magic all over the world, and began
+to cast his Ascendance... and Shattered our world.
+
+You are the heir of a fallen lineage, commanding a small force - a gnat
+to Vencua's great empire.  Your size is your weakness, but perhaps it
+can be a strength - Vencua, Ascended, may suffer to let you live.
+In the meantime, gather your army into a force that may destroy
+Vencua's Heart, the capital of the empire that powers his Ascendancy.
+
+None shall Shatter our world, without facing the consequences!
+
+---
+
+Game rough walkthrough
+
+The Shattered World is composed of world fragments linked by a network
+of fragment portals, tiny links of magic which prevent the world from
+completely falling apart.  The player starts commanding forces within
+one home fragment, and may send scouts and spies to nearby fragments.
+The player may then take over nearby undefended fragments, or fight for
+them against a weak Empire presence (at this stage it would be suicidal
+to engage a strong Empire presence).  Players (and Vencua's Empire)
+control fragments by building Mage Towers, placed on a Magic Well,
+located in each fragment.
+
+After the player gains a small empire of a few fragments, Vencua's
+Empire will be more alarmed, making it more likely that Vencua will
+send forces against the player.  The player must now defend the small
+area he has claimed against Vencua's army.
+
+Vencua's army seems to be trained in some higher plane accessible only
+to Vencua, Ascended.  They enter our world through outworld portals
+controlled by Vencua.  Destroying the portals prevents the forces from
+entering the world through those portals, but the outworld portals are
+numerous and Vencua can simply send them through other portals.  Still,
+if the player destroys outworld portals near fragments he or she
+controls, he or she can at least delay the attack, gaining some breathing
+space.
+
+Vencua did several researches, and maintains several libraries.  The
+player can capture a world fragment with one or more of those libraries,
+and thereby gain access to more advanced unit types.
+
+Vencua's Empire has captured some high-level Mages and Knights, and forced
+them to become Cogitants, coercing them to think for and run his Empire.
+Finding and freeing them reduces the Empire's alarm (they are, after all,
+part of the "thinkers" and "planners" of the Empire) and gains you a
+high-level unit.
+
+The Empire also sealed away several Jotun, powerful giants with great
+magical powers.  The player can take over a world fragment with a Sealed
+Jotun, and proceed to undo the seal, freeing the Jotun.  Having one or
+two against Vencua's Empire is a great help towards victory.
+
+In the meantime, the player must scout and find Vencua's Limbs: Vencua's
+Left Arm, Vencua's Right Fist, Vencua's Left Foot, and Vencua's Right Leg.
+These special Mage Towers prevent Vencua's Heart from being damaged, and
+are scattered over various fragments - their destruction is required for
+victory.
+
+Through all this, Vencua's alarm over the player's actions can only grow,
+and the player must carefully balance between acquiring more power versus
+irritating Vencua enough to trigger an attack too large to handle.
+
+Finally, after building an army powerful and versatile enough to destroy
+each of Vencua's Limbs, the player makes one last push through one of
+Vencua's Ribs to finally destroy Vencua's Heart and thereby win the game.
+
+---
+
+Concepts
+
+Alarm - The game is played solely as a rebellion against Vencua's
+Empire.  The player starts with a pathetically small force which Vencua
+deems to be much too small to be a threat.  However, as the player
+expands his or her army, Vencua re-evaluates the threat level of the
+player; this assessment is the Alarm Level.  Higher levels of Alarm mean
+that Vencua will send more powerful forces against the player.
+
+Unit Level - Units, when trained, have a particular level which defines
+how powerful they are - obviously, higher-level units are more powerful.
+All normal unit types have different levels.  The player can research
+higher-level versions of all units, up to level 3.  Higher-level versions
+of each unit type are researched independently.  Level 4 units can be
+trained only if you have researched level 3, and have captured an
+Advanced Training Yard (and can only be trained at that training yard).
+Level 5 units (the maximum level) can only be trained by Vencua's
+Empire, but Enslaved Cogitants are always level 5 units when freed.
+
+Control Points - Units and towers need to have control points in order
+for the player to have more of that unit, similar to supply or control
+in other RTS games.  Control points are divided by level: the player
+cannot support a level 2 unit using Level 1 Control Points, and neither
+can he or she support a level 1 unit using Level 2 Control Points.
+Control structures provide control points for all levels, giving smaller
+number of control points for higher levels.  Putting multiple control
+structures on the same fragment gives diminishing returns.
+
+Work Crews and Construct Priorities - Structures don't build and
+repair themselves (except for Mage Towers, which feed directly from the
+Magic Well you build them on).  They are built by work crews, which are
+hidden away by the game as "Work Crew Points" (the game handles the
+logistics of moving work crews etc. to where they are needed).  Work
+Crew points are needed to build structures - at least one work crew
+point must be allocated for each structure under construction, or else
+construction is stalled.  The home Magic Tower provides one work crew
+point, and additional work crew points can be acquired by building
+additional work crew houses.  The player can affect the distribution of
+work crew points to structures by controlling Construct Priorities for
+each structure.
+
+Mana Supply - magical units and magical defenses require a constant flow
+of magic power (mana).  Mana supply "flows" from Mage Towers, and passes
+through interfragment portals.  Enemy mage towers prevent mana supply
+from going beyond the fragment they're in (although mana supply still
+reaches that fragment - it just won't flow beyond it).  Without mana
+supply, Mages and Towers cannot fire, and most structures can't be
+built.  Some Mage unit types have the Sourcery ability, which allow them
+to provide Mana Supply naturally to the fragment they are on.  Vencua's
+Empire also has Disrupters, which are tough units that interrupt the
+mana supply path even worse than mage towers: the fragment they're on
+loses mana supply, unless there are more Sourcery-ability units than
+Disrupters.  Work crews also cannot work on fragments without mana
+supply, even when allocated to the structure.
+
+Magic Well - Each world fragment has one magic well that focuses the
+magic in that world fragment.  Claiming this magic well by building a
+Mage Tower on it also claims that fragment directly, and allows the
+player to convert the magic well into actual magic to supply to magic
+users, such as Mages and Towers.
+
+Randomized Special Units - Aside from basic units, it's possible to
+build Special unit types.  These special unit types are acquired at the
+start of the game (the player gets one special unit type, and Vencua's
+empire gets several) and additional types are acquired by capturing
+Libraries (Vencua's empire gets new ones based on its alarm).  Special
+unit types have random abilities (such as the aforementioned Sourcery
+ability).  Examples include the ability to resist fire damage, attack
+with lightning bolts, stun opponents, and provide healing to allies.
+Note that Vencua's Empire also gains special units as alarm grows.
+
+Cloaking and Sight - Some units, such as Spies, are cloaked and cannot
+normally be seen unless they attack, after which they are "Painted"
+for some amount of time and can be seen by opponents.  However, units
+with Sight will periodically "sweep" nearby areas for cloaked units.
+Such a sweep has a possibility to "paint" individual cloaked units,
+revealing them for a short amount of time and allowing them to be
+attacked by units.  Differences in levels between the Cloaked unit and
+the Sighted unit bias the possibility in favor of the higher-leveled
+unit.
+
+Damage Types - There are 4 damage types: Physical, Magic, Fire, and
+Lightning.  Of these types, only one is particularly "special" -
+Lightning will strike multiple different targets.  Archers and
+Knights typically attack with Physical damage, although randomized
+special Archers can have the ability to attack with Fire.  Mages and
+Towers typically attack with Magic damage, although both can have
+the ability to attack with Fire or Lightning.  Damage can be
+resisted; this reduces Physical and Magic damage by 50%, and reduces
+Fire and Lightning damage by 75%.  Knights usually have Physical
+Resist (although randomized special Knights may occassionally lose
+this but gain more abilities) while Archers usually have Magic
+Resist (with the same rule for randomized special Archer types).
+
+Grand Spells - some spells of great power exist.  These spells
+would be extremely dangerous to cast if done normally by mere
+living flesh, but mechanical contrivances can be used to control and
+limit such grand spells.  These are constructed at Machine Shops
+specifically to contain a particular grand spell; triggering the
+grand spell destroys the spell wagon holding it.  The destruction
+of the spell wagon also automatically releases the spell, causing
+it to trigger.  Grand spells all affect some area and are so
+powerful that they affect both friend and enemy alike.  Vencua,
+however, has ensured that Level 5 units have sufficient fortitude
+to be unaffected by grand spells.  Examples of Grand Spells include
+Lightning Storm (which casts several lightning bolt attacks in an
+area), Curse (which curses affected units so that they are
+automatically killed by any attack within a particular amount of
+time), and Frost (which temporarily encases all units in
+impenetrable blocks of ice, protecting them but also preventing
+them from actually doing anything).
+
+---
+
+Basic Structures
+
+Magic Tower - built on the Magic Well found on each fragment, Magic
+Towers provide Mana Supply that flows to other world fragments, up to
+and including world fragments that are claimed by hostile Magic
+Towers - Mana Supply is needed for defense towers to actually work,
+for Mages to attack and Teleport (if they have the ability), and to
+build other structures.  Capturing Libraries and Advanced Training
+Yards is done by destroying the Empire's Mage Tower on that fragment
+and constructing your own.
+
+Training Yard - trains most units, up to units of level 3.
+
+Machine Shop - trains spell wagons (see Concepts, Grand Spells) and
+siege units.
+
+Sight Towers - the basic defense structure, this structure is less
+tough than typical special towers but have the Sight ability to
+sense Cloaked units.
+
+---
+
+Basic Units
+
+Knights - melee units with good life and magic damage, somewhat
+more expensive than other unit types, and requires more control.
+Usually have the Physical Resist ability, making them strong
+against Archers and other Knights.
+
+Archers - ranged units with good range and physical damage.
+Usually have the Magic Resist ability, making them strong
+against Mages.
+
+Mage - ranged units with reasonable range and magic damage.
+Usually have the Power ability, giving better damage but
+increasing their cost and control.  Best against Knights and
+other Mages.  Requires mana supply to attack and teleport (if
+they are capable of teleportation).
+
+---
+
+
+
