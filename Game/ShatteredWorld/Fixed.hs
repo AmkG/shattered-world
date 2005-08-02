@@ -5,6 +5,7 @@ module Game.ShatteredWorld.Fixed(Fixed) where
 import Data.Int
 import Data.Bits
 import Data.Ratio
+import System.Random
 
 point :: Int
 point = 24
@@ -58,4 +59,11 @@ instance RealFrac Fixed where
                       frac = i .&. mask
                    in (whole, F frac)
 
+instance Random Fixed where
+  random g = let i :: Integer
+                 (i, g) = randomR (0, fromIntegral expt) g
+              in (F $ fromIntegral i, g)
+  randomR (F lo, F hi) g = let i :: Integer
+                               (i, g) = randomR (fromIntegral lo, fromIntegral hi) g
+                            in (F $ fromIntegral i, g)
 
